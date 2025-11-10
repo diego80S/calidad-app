@@ -18,7 +18,7 @@ function Normas() {
         <iframe
           width="100%"
           height="315"
-          src="https://youtu.be/KncRQjKeKBQ?si=ix5rXwW2ncO1BMCe"
+          src="https://www.youtube.com/embed/KncRQjKeKBQ?si=Dz23erRfsSIpwlwe"
           title="Normas de Calidad de Software"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
